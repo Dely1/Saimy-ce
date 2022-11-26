@@ -1,4 +1,4 @@
-Saimy-ce/README.md
+
 Hello everyone. __I am Saim Yüce__, I am 15 years old and I am continuing my education life as a high school 2.
 
 _________________________________________________________________________________________________________________________________________________________________________
