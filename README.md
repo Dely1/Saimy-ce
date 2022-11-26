@@ -5,4 +5,4 @@ ________________________________________________________________________________
 My experience
 
 
-_I have been dealing with software for three years. The languages I have learned are C#, Sql, Arduino, Html and Css. I prefer FPS games apart from software._
+I have been dealing with software for three years. The languages I have learned are C#, Sql, Arduino, Html and Css. I prefer FPS games apart from software.
